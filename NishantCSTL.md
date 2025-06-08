@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/NishantCSTL/NishantCSTL/main/header.png "Header")]
+![Header](https://raw.githubusercontent.com/NishantCSTL/NishantCSTL/main/header.png "Header")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantcstl&label=Profile%20views&color=0e75b6&style=flat" alt="nishantcstl" /> </p>
 
